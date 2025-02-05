@@ -3,11 +3,6 @@
 
 <img src="https://github.com/Eflox/AStar-Pathfinding/blob/main/Project/Pictures/Picture%201.png" width="300"> <img src="https://github.com/Eflox/AStar-Pathfinding/blob/main/Project/Pictures/Picture%202.png" width="300"> <img src="https://github.com/Eflox/AStar-Pathfinding/blob/main/Project/Pictures/Picture%203.png" width="300">
 
-
-## How to play(MacOS)
-
-Download and launch the .app file
-
 ## Instructions
 
 * ```Left Mouse Button``` Make Walls
